@@ -3,6 +3,8 @@
 * Materials
 * My Notes [Jupyter Notebook]
 
+* * *
+
 * **Part 1 - Data Preprocessing**
 	* Python
 	* R

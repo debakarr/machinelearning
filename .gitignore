@@ -1,2 +1,2 @@
-.DS_Store
-.ipyb_checkpoints
+.*
+!/.gitignore
