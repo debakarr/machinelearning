@@ -32,7 +32,7 @@
 
 	* **Polynomial Regression**
 		* [[Python] Polynomial Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/%5BPython%5D%20Polynomial%20Regression.ipynb)
-		* [[Python] Polynomial Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/%5BR%5D%20Polynomial%20Regression.ipynb)
+		* [[R] Polynomial Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/%5BR%5D%20Polynomial%20Regression.ipynb)
 
 		* **Steps involved**: *Data preprocessing -> Fitting Polynomial Regression to the dataset -> Visualising the Polynomial Regression results -> Adjust degree -> Get a more continuous curve -> Predicting a new result with Polynomial Regression*
 * * *
