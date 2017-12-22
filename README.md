@@ -11,7 +11,7 @@
 	* [[Python] Data Preprocessing](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%201%20-%20Data%20Preprocessing/%5BPython%5D%20Data%20Preprocessing.ipynb)
 	* [[R] Data Preprocessing](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%201%20-%20Data%20Preprocessing/%5BR%5D%20Data%20Preprocessing.ipynb)
 
-**Steps involved**: *Import the dataset -> Taking care of missing data -> Encoding categorical data -> Splitting the dataset into Trainingset and Test set -> Feature Scaling*
+	* **Steps involved**: *Import the dataset -> Taking care of missing data -> Encoding categorical data -> Splitting the dataset into Trainingset and Test set -> Feature Scaling*
 
 * * *
 
@@ -20,8 +20,15 @@
 		* [[Python] Simple Linear Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/%5BPython%5D%20Simple%20Linear%20Regression.ipynb)
 		* [[R] Simple Linear Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/%5BR%5D%20Simple%20Linear%20Regression.ipynb)
 
-**Steps involved**: *Data preprocessing -> Fitting Simple Linear Regression to the Training Set -> Predicting the Test set result -> Visualising the Training set results -> Visualising the Test set results*
+		* **Steps involved**: *Data preprocessing -> Fitting Simple Linear Regression to the Training Set -> Predicting the Test set result -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Multiple Linear Regression**
+		* [[Python] Multiple Linear Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/%5BPython%5D%20Multiple%20Linear%20Regression.ipynb)
+		* [[R] Multiple Linear Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/%5BR%5D%20Multiple%20Linear%20Regression.ipynb)
+
+		* **Steps involved**: *Data prepocessing [Encoding categorical data(if any) -> Avoid dummy variable trap(can be done using Python and R library)] -> Fitting Multiple Linear Regression to the training set -> Predicting the test set reults*
+
+		* [**For steps needed for Backward Elimination please refer to the pdf**](https://github.com/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/Step-by-step-Blueprints-For-Building-Models.pdf)
 * * *
 
 <a name="importantLinks"></a>
