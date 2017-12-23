@@ -47,6 +47,13 @@
 		* [[R] Decision Tree Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/%5BR%5D%20Decision%20Tree%20Regression.ipynb)
 
 		* **Steps involved**: *Data preprocessing -> Fitting the Decision Tree Regression Model to the dataset -> Predicting a new result -> Visualising the Decision Tree Regression results*
+
+	* **Random Forest Regression**
+		* [[Python] Random Forest Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/%5BPython%5D%20Random%20Forest%20Regression.ipynb)
+		* [[R] Random Forest Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/%5BR%5D%20Random%20Forest%20Regression.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting the Random Forest Regression Model to the dataset (tweak the NTree parameter)-> Predicting a new result -> Visualising the Random Forest Regression results*
+
 * * *
 
 <a name="importantLinks"></a>
