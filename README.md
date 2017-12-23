@@ -35,6 +35,18 @@
 		* [[R] Polynomial Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/%5BR%5D%20Polynomial%20Regression.ipynb)
 
 		* **Steps involved**: *Data preprocessing -> Fitting Polynomial Regression to the dataset -> Visualising the Polynomial Regression results -> Adjust degree -> Get a more continuous curve -> Predicting a new result with Polynomial Regression*
+
+	* **Support Vector Regression**
+		* [[Python] Support Vector Regression (SVR)](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Support%20Vector%20Regression%20%28SVR%29/%5BPython%5D%20Support%20Vector%20Regression%20%28SVR%29.ipynb)
+		* [[R] Support Vector Regression (SVR)](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Support%20Vector%20Regression%20%28SVR%29/%5BR%5D%20Support%20Vector%20Regression%20%28SVR%29.ipynb)
+
+		* **Steps involved**: *Data preprocessing (for python we need to do Feature Scaling) -> Fitting the SVR Model to the dataset-> Predicting a new result -> Visualising the SVR Regression results*
+
+	* **Decision Tree Regression**
+		* [[Python] Decision Tree Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/%5BPython%5D%20Decision%20Tree%20Regression.ipynb)
+		* [[R] Decision Tree Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/%5BR%5D%20Decision%20Tree%20Regression.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting the Decision Tree Regression Model to the dataset -> Predicting a new result -> Visualising the Decision Tree Regression results*
 * * *
 
 <a name="importantLinks"></a>
