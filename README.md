@@ -56,6 +56,15 @@
 
 * * *
 
+* **Part 3 - Classification**
+	* **Logistic Regression** 
+		* [[Python] Logistic Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Logistic%20Regression/%5BPython%5D%20Logistic%20Regression.ipynb)
+		* [[R] Logistic Regression](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Logistic%20Regression/%5BR%5D%20Logistic%20Regression.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting Logistic Regression to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
