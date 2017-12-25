@@ -81,6 +81,12 @@
 
 		* **Steps involved**: *Data preprocessing -> Fitting Kernel SVM to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Naive Bayes** 
+		* [[Python] Naive Bayes](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Naive%20Bayes/%5BPython%5D%20Naive%20Bayes.ipynb)
+		* [[R] Naive Bayes](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Naive%20Bayes/%5BR%5D%20Naive%20Bayes.ipynb)
+
+		* **Steps involved**: *Data preprocessing [Here Encoding the target feature as factor is compulsory in R] -> Fitting Naive Bayes to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
