@@ -87,6 +87,12 @@
 
 		* **Steps involved**: *Data preprocessing [Here Encoding the target feature as factor is compulsory in R] -> Fitting Naive Bayes to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Decision Tree** 
+		* [[Python] Decision Tree](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Decision%20Tree/%5BPython%5D%20Decision%20Tree.ipynb)
+		* [[R] Decision Tree](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Decision%20Tree/%5BR%5D%20Decision%20Tree.ipynb)
+
+		* **Steps involved**: *Data preprocessing [Here we don't actually need Feature Scaling as decison tree classification does not depends on Euclidean distance] -> Fitting Decision Tree to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
