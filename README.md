@@ -75,6 +75,12 @@
 
 		* **Steps involved**: *Data preprocessing -> Fitting Support Vector Machine Classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Kernel SVM** 
+		* [[Python] Kernel SVM](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Kernel%20SVM/%5BPython%5D%20Kernel%20SVM.ipynb)
+		* [[R] Kernel SVM](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Kernel%20SVM/%5BR%5D%20Kernel%20SVM.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting Kernel SVM to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
