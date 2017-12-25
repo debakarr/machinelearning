@@ -69,6 +69,12 @@
 
 		* **Steps involved**: *Data preprocessing -> Fitting K-Nearest Neighbor Classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Support Vector Machine** 
+		* [[Python] Support Vector Machine](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine/%5BPython%5D%20Support%20Vector%20Machine.ipynb)
+		* [[R] Support Vector Machine](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine/%5BR%5D%20Support%20Vector%20Machine.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting Support Vector Machine Classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
