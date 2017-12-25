@@ -63,6 +63,12 @@
 
 		* **Steps involved**: *Data preprocessing -> Fitting Logistic Regression to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **K-Nearest Neighbors** 
+		* [[Python] K-Nearest Neighbors](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/K%20Nearest%20Neighbors/%5BPython%5D%20K-Nearest%20Neighbour.ipynb)
+		* [[R] K-Nearest Neighbors](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/K%20Nearest%20Neighbors/%5BR%5D%20K-Nearest%20Neighbour.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting K-Nearest Neighbor Classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
