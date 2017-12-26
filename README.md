@@ -101,6 +101,15 @@
 
 * * *
 
+* **Part 4 - Clustering**
+	* **K-Means Clustering** 
+		* [[Python] K-Means Clustering](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/%5BPython%5D%20K-Means%20Clustering.ipynb)
+		* [[R] K-Means Clustering](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/%5BR%5D%20K-Means%20Clustering.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Using the elbow method to find the optimal number of clusters -> Applying K-Means to the dataset -> Visualizing the clusters -> Analyse*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
