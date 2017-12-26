@@ -91,7 +91,13 @@
 		* [[Python] Decision Tree](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Decision%20Tree/%5BPython%5D%20Decision%20Tree.ipynb)
 		* [[R] Decision Tree](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Decision%20Tree/%5BR%5D%20Decision%20Tree.ipynb)
 
-		* **Steps involved**: *Data preprocessing [Here we don't actually need Feature Scaling as decison tree classification does not depends on Euclidean distance] -> Fitting Decision Tree to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+		* **Steps involved**: *Data preprocessing [Here we don't actually need Feature Scaling as decison tree classification does not depends on Euclidean distance] -> Fitting Decision Tree to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results [ -> Visualize the Decision Tree (in R)]*
+
+	* **Random Forest** 
+		* [[Python] Random Forest](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Random%20Forest/%5BPython%5D%20Random%20Forest.ipynb)
+		* [[R] Random Forest](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%203%20-%20Classification/Random%20Forest/%5BR%5D%20Random%20Forest.ipynb)
+
+		* **Steps involved**: *Data preprocessing [Here we don't actually need Feature Scaling as random forest classification does not depends on Euclidean distance] -> Fitting Random Forest to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
 * * *
 
