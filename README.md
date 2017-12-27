@@ -116,6 +116,20 @@
 
 * * *
 
+* **Part 5 - Association Rule Learning**
+	* **Apriori** 
+		* [[Python] Apriori](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/%5BPhython%5D%20Apriori.ipynb)
+		* [[R] Apriori](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/%5BR%5D%20Apriori.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Training Apriori on the dataset -> Visualization of the result*
+
+	* **Eclat**
+		* [[R] Eclat](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%205%20-%20Association%20Rule%20Learning/Eclat/%5BR%5D%20Eclat.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Training Eclat on the dataset -> Visualization of the result*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
