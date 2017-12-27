@@ -130,6 +130,15 @@
 
 * * *
 
+* **Part 6 - Reinforcement Learning**
+	* **Upper Confidence Bound** 
+		* [[Python] Upper Confidence Bound](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%206%20-%20Reinforcement%20Learning/Upper%20Confidence%20Bound/%5BPython%5D%20Upper%20Confidence%20Bound.ipynb)
+		* [[R] Upper Confidence Bound](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%206%20-%20Reinforcement%20Learning/Upper%20Confidence%20Bound/%5BR%5D%20Upper%20Confidence%20Bound.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Implementing the Upper Confidence Bound -> Visualization of the result*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
