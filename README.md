@@ -148,6 +148,17 @@
 
 * * *
 
+* **Part 8 - Artificial Neural Network**
+	* [[Python] Artificial Neural Network](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%208%20-%20Artificial%20Neural%20Networks/%5BPython%5D%20Artificial%20Neural%20Network.ipynb)
+
+	* [[R] Artificial Neural Network](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%208%20-%20Artificial%20Neural%20Networks/%5BR%5D%20Artificial%20Neural%20Network.ipynb)
+
+	* **Steps involved**: *Data preprocessing -> [**In Python:** Initialization of ANN -> Adding the input layer and the first hidden layer -> Adding more hidden layer(s) inbetween(optional) -> Adding the output layer -> Compiling the ANN] -> Fiting ANN to the Training set [used **keras** for **Python** and **h2o** for **R**] -> Predicting the Test set results -> Making the confussion Matrix -> Calculating Accuracy -> Analyse and Improve if possible*
+
+* * *
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
