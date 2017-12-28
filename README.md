@@ -157,8 +157,6 @@
 
 * * *
 
-* * *
-
 <a name="importantLinks"></a>
 **Important Links**
 
