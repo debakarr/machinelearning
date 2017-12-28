@@ -139,6 +139,13 @@
 
 * * *
 
+* **Part 7 - Natural Language Processing**
+	* [[Python] Natural Language Processing](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%207%20-%20Natural%20Language%20Processing/%5BPython%5D%20Natural%20Language%20Processing.ipynb)
+
+	* **Steps involved**: *Data preprocessing -> Cleaning the text -> Creating the Bag of Words model -> Splitting the dataset into the Training set and Test set -> Fitting the Training set in some classification model -> Predicting the Test set results -> Making Confusion Matrix -> Analyse*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
