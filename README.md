@@ -156,6 +156,11 @@
 
 		* **Steps involved**: *Data preprocessing -> [**In Python:** Initialization of ANN -> Adding the input layer and the first hidden layer -> Adding more hidden layer(s) inbetween(optional) -> Adding the output layer -> Compiling the ANN] -> Fiting ANN to the Training set [used **keras** for **Python** and **h2o** for **R**] -> Predicting the Test set results -> Making the confussion Matrix -> Calculating Accuracy -> Analyse and Improve if possible*
 
+	* **Convolutional Neural Network**
+		* [[Python] Convolutional Neural Network](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%208%20-%20Deep%20Learning/Convolutional%20Neural%20Networks/%5BPython%5D%20Convolutional%20Neural%20Networks.ipynb)
+
+		* **Steps involved**: *Data preprocessing [It is done manually, please refer to notebook for more information] -> Importing the Keras libraries and packages -> Initialising the CNN -> Convolution -> Pooling -> Adding a second convolutional layer followed by pooling(to improve accuracy) -> Flattening -> Full connection -> Compiling the CNN -> Fitting the CNN to the images*
+
 * * *
 
 <a name="importantLinks"></a>
