@@ -4,6 +4,8 @@
 * My Notes [Jupyter Notebook]
 * [Important links](#importantLinks)
 
+**NOTE**: *If you are going to dowload or fork the zip version of this repository then please be aware that the size of the repository is 514.8 MB.*
+
 * * *
 
 * **Part 1 - Data Preprocessing**
