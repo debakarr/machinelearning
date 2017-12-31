@@ -165,6 +165,16 @@
 
 * * *
 
+* **Part 8 - Dimension Reduction**
+	* **Principle Component Analysis**
+		* [[Python] Principle Component Analysis]()
+
+		* [[R] Principle Component Analysis]()
+
+		* **Steps involved**: *Data preprocessing -> Applying PCA -> Fitting classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
