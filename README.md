@@ -173,6 +173,13 @@
 
 		* **Steps involved**: *Data preprocessing -> Applying PCA -> Fitting classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **Linear Discriminant Analysis**
+		* [[Python] Linear Discriminant Analysis](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%209%20-%20Dimension%20Reduction/Linear%20Discriminant%20Analysis/%5BPython%5D%20Linear%20Discriminant%20Analysis.ipynb)
+
+		* [[R] Linear Discriminant Analysis](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%209%20-%20Dimension%20Reduction/Linear%20Discriminant%20Analysis/%5BR%5D%20Linear%20Discriminant%20Analysis.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Applying LDA -> Fitting classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
 * * *
 
 <a name="importantLinks"></a>
