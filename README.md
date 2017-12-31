@@ -167,9 +167,9 @@
 
 * **Part 8 - Dimension Reduction**
 	* **Principle Component Analysis**
-		* [[Python] Principle Component Analysis]()
+		* [[Python] Principle Component Analysis](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%209%20-%20Dimension%20Reduction/Principal%20Component%20Analysis/%5BPython%5D%20Principal%20Component%20Analysis.ipynb)
 
-		* [[R] Principle Component Analysis]()
+		* [[R] Principle Component Analysis](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%209%20-%20Dimension%20Reduction/Principal%20Component%20Analysis/%5BR%5D%20Principal%20Component%20Analysis.ipynb)
 
 		* **Steps involved**: *Data preprocessing -> Applying PCA -> Fitting classifier to the Training Set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
