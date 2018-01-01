@@ -197,7 +197,7 @@
 
 		* **Steps involved**: *Data preprocessing -> Fitting Kernel SVM to the Training Set [Can use some other method] -> Predicting the Test set result -> Applying k-Fold Cross Validation -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
-		* **Grid Search**
+	* **Grid Search**
 		* [[Python] Grid Search](https://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection/Grid%20Search/%5BPython%5D%20Grid%20Search.ipynb)
 
 		* [[R] Grid Search](https://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection/Grid%20Search/%5BR%5D%20Grid%20Search.ipynb)
