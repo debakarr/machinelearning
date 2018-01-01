@@ -165,7 +165,7 @@
 
 * * *
 
-* **Part 8 - Dimension Reduction**
+* **Part 9 - Dimension Reduction**
 	* **Principle Component Analysis**
 		* [[Python] Principle Component Analysis](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%209%20-%20Dimension%20Reduction/Principal%20Component%20Analysis/%5BPython%5D%20Principal%20Component%20Analysis.ipynb)
 
