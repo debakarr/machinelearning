@@ -189,7 +189,7 @@
 
 * * *
 
-* **Part 10 - Model Selection**
+* **Part 10 - Model Selection And Boosting**
 	* **k-Fold Cross Validation**
 		* [[Python] k-Fold Cross Validation](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection%20And%20Boosting/k-Fold%20Cross%20Validation/%5BPython%5D%20k-Fold%20Cross%20Validation.ipynb)
 
