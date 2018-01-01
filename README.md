@@ -189,6 +189,16 @@
 
 * * *
 
+* **Part 10 - Model Selection**
+	* **k-Fold Cross Validation**
+		* [[Python] k-Fold Cross Validation](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection/k-Fold%20Cross%20Validation/%5BPython%5D%20k-Fold%20Cross%20Validation.ipynb)
+
+		* [[R] k-Fold Cross Validation](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection/k-Fold%20Cross%20Validation/%5BR%5D%20k-Fold%20Cross%20Validation.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting Kernel SVM to the Training Set [Can use some other method] -> Predicting the Test set result -> Applying k-Fold Cross Validation -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
+
+* * *
+
 <a name="importantLinks"></a>
 **Important Links**
 
