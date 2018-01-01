@@ -204,6 +204,13 @@
 
 		* **Steps involved**: *Data preprocessing -> Applying Grid Search to find the best model and the best parameters -> Fitting Kernel SVM to the Training Set with best parameters [Can use some other method] -> Predicting the Test set result -> Applying k-Fold Cross Validation -> Making and analysing the Confusion Matrix -> Visualising the Training set results -> Visualising the Test set results*
 
+	* **XGBoost**
+		* [[Python] XGBoost](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection%20And%20Boosting/XGBoost/%5BPython%5D%20XGBoost.ipynb)
+
+		* [[R] XGBoost](http://nbviewer.jupyter.org/github/Dibakarroy1997/machinelearning/blob/master/Part%2010%20-%20Model%20Selection%20And%20Boosting/XGBoost/%5BR%5D%20XGBoost.ipynb)
+
+		* **Steps involved**: *Data preprocessing -> Fitting XGBoost to the training set -> Predicting the Test set result -> Making and analysing the Confusion Matrix -> Applying k-Fold Cross Validation [get Accuracy and Standard Deviation] -> Applying Grid Search to find the best model and the best parameters (Optional)*
+
 * * *
 
 <a name="importantLinks"></a>
